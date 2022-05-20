@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Q.3f517311-590a-11ec-b1a9-4074e0a6c763.jpg</filename>
+	<path>E:\all program\ggProject\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\Q.3f517311-590a-11ec-b1a9-4074e0a6c763.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Q</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>256</ymin>
+			<xmax>250</xmax>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+</annotation>

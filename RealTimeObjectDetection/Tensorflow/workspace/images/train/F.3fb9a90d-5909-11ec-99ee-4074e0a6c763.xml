@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>F.3fb9a90d-5909-11ec-99ee-4074e0a6c763.jpg</filename>
+	<path>C:\Users\Mohit\OneDrive\Desktop\img\F.3fb9a90d-5909-11ec-99ee-4074e0a6c763.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>268</xmin>
+			<ymin>226</ymin>
+			<xmax>529</xmax>
+			<ymax>580</ymax>
+		</bndbox>
+	</object>
+</annotation>

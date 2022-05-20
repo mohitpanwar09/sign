@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>M.d8ebc84e-5909-11ec-b5ec-4074e0a6c763.jpg</filename>
+	<path>C:\Users\Mohit\OneDrive\Desktop\img\M.d8ebc84e-5909-11ec-b5ec-4074e0a6c763.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>M</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>380</xmin>
+			<ymin>253</ymin>
+			<xmax>584</xmax>
+			<ymax>486</ymax>
+		</bndbox>
+	</object>
+</annotation>

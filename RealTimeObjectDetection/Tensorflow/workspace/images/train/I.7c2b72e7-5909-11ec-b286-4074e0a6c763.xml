@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>I.7c2b72e7-5909-11ec-b286-4074e0a6c763.jpg</filename>
+	<path>C:\Users\Mohit\OneDrive\Desktop\img\I.7c2b72e7-5909-11ec-b286-4074e0a6c763.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>I</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>307</xmin>
+			<ymin>247</ymin>
+			<xmax>559</xmax>
+			<ymax>512</ymax>
+		</bndbox>
+	</object>
+</annotation>
